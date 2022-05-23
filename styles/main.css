@@ -21,7 +21,7 @@ body,
 .mainname{
   font-size: 25rem;
   font-weight: bold;
-  color: #b5c28a;  
+  color: black;  
 }
 p:not(.slogan),
 .left,
@@ -290,5 +290,5 @@ button,
   font-family: "Lato", sans-serif;
   font-size: 15em;
   font-weight: bold;
-  color: #b5c28a;
+  color: black;
 }
